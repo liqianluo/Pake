@@ -24,5 +24,8 @@
     "distDir": "../dist",
     "beforeBuildCommand": "",
     "beforeDevCommand": ""
-  }
+  },
+  "transparent": false,
+  "width": 1600,
+  "height": 1080
 }
